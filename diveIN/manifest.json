@@ -15,7 +15,7 @@
     },
     "content_scripts":[{
       "matches":["https://*.youtube.com/*"],
-      "js":["contenScript.js"]
+      "js":["background.js"]
     }],
     "action": {
       "default_popup": "popup.html",
