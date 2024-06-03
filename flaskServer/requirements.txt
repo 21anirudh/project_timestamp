@@ -1,0 +1,12 @@
+Flask==3.0.3
+gensim==4.3.2
+Gunicorn
+numpy==1.24.1
+pytube
+regex==2024.4.28
+scikit-learn==1.4.2
+spacy
+pandas
+youtube_transcript_api
+
+
